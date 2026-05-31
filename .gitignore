@@ -1,0 +1,170 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components/
+
+# Build outputs
+dist/
+build/
+out/
+*.min.js
+*.min.css
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE folders
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.log
+
+# p5.js specific
+p5/empty-example/sketch.js.backup
+sketch.js.backup
+
+# Generated art files
+generated-art/
+exports/
+output/
+
+# Python (if using for generative scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Images and assets (optional - if you want to track these remove from ignore)
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.svg
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Config files with sensitive data
+config.local.js
+config.json
+secrets.json
+
+# Test files
+coverage/
+.nyc_output/
+*.test.js
+
+# TypeScript
+*.tsbuildinfo
+
+# Next.js
+.next/
+out/
+
+# Nuxt.js
+.nuxt/
+dist/
+
+# Gatsby
+.cache/
+public/
+
+# Vue
+*.log
+*.lock
+
+# React
+.eslintcache
+*.css.map
+
+# Upload files
+uploads/
+temp/
+
+# Documentation generated
+docs/_build/
+site/
+
+# Certificate files
+*.pem
+*.crt
+*.key
+
+# Local development
+localhost/
+*.local.md
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Workspace specific
+*.code-workspace
+
+# Make sure to keep your images and sketch files
+!*.js
+!*.html
+!*.css
+!*.md
+!*.json
+!artstudio.png
+!*.jpg
+!*.png
